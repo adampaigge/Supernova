@@ -1,7 +1,7 @@
 
 ### Hello there!
 
-<img src="rocket.jpg" width="100%" />
+<img src="spaceplaneshopheader.png" width="100%" />
 
 I do a lot of things. 
 
@@ -28,5 +28,5 @@ I do a lot of things.
 - **Open Metaverse Interoperability Group** https://omigroup.org/
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/adampaigge/supernova/blob/main/bg.jpg?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/adampaigge/supernova/blob/main/background.jpg?raw=true');]{x0000}$}
 ```
