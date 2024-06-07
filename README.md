@@ -2,6 +2,7 @@
 ### Hi there 👋 I'm Moon 🌙
 
 <img src="moon.jpg" width="100%" />
+<marquee>"YES THIS IS A MARQUEE ON GITHUB"</marquee>
 
 Full-stack engineer, entrepreneur and product designer with a passion for building things that make a difference.
 
